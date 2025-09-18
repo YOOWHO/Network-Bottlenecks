@@ -1,0 +1,53 @@
+Connecting to host 192.168.29.97, port 5201
+[  5] local 192.168.29.97 port 51880 connected to 192.168.29.97 port 5201
+[  7] local 192.168.29.97 port 51892 connected to 192.168.29.97 port 5201
+[ ID] Interval           Transfer     Bitrate         Retr  Cwnd
+[  5]   0.00-1.01   sec  5.75 GBytes  49.0 Gbits/sec    1   3.37 MBytes       
+[  7]   0.00-1.01   sec  5.66 GBytes  48.1 Gbits/sec    2   2.94 MBytes       
+[SUM]   0.00-1.01   sec  11.4 GBytes  97.2 Gbits/sec    3             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   1.01-2.00   sec  6.13 GBytes  53.0 Gbits/sec    0   3.93 MBytes       
+[  7]   1.01-2.01   sec  5.63 GBytes  48.5 Gbits/sec    0   3.75 MBytes       
+[SUM]   1.01-2.00   sec  11.8 GBytes   102 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   2.00-3.00   sec  5.87 GBytes  50.4 Gbits/sec    0   4.12 MBytes       
+[  7]   2.01-3.01   sec  5.19 GBytes  44.5 Gbits/sec    0   4.12 MBytes       
+[SUM]   2.00-3.00   sec  11.1 GBytes  95.0 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   3.00-4.00   sec  5.08 GBytes  43.6 Gbits/sec    0   4.12 MBytes       
+[  7]   3.01-4.00   sec  5.30 GBytes  45.9 Gbits/sec    0   4.12 MBytes       
+[SUM]   3.00-4.00   sec  10.4 GBytes  89.2 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   4.00-5.00   sec  5.56 GBytes  47.7 Gbits/sec    0   4.12 MBytes       
+[  7]   4.00-5.00   sec  6.07 GBytes  52.2 Gbits/sec    1   3.37 MBytes       
+[SUM]   4.00-5.00   sec  11.6 GBytes  99.9 Gbits/sec    1             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   5.00-6.00   sec  5.85 GBytes  50.2 Gbits/sec    0   4.12 MBytes       
+[  7]   5.00-6.01   sec  5.26 GBytes  44.7 Gbits/sec    3   3.81 MBytes       
+[SUM]   5.00-6.00   sec  11.1 GBytes  95.4 Gbits/sec    3             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   6.00-7.00   sec  5.77 GBytes  49.5 Gbits/sec    0   4.12 MBytes       
+[  7]   6.01-7.00   sec  5.88 GBytes  51.0 Gbits/sec    0   4.12 MBytes       
+[SUM]   6.00-7.00   sec  11.6 GBytes   100 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   7.00-8.00   sec  5.24 GBytes  44.9 Gbits/sec    0   4.12 MBytes       
+[  7]   7.00-8.01   sec  5.65 GBytes  48.2 Gbits/sec    1   4.12 MBytes       
+[SUM]   7.00-8.00   sec  10.9 GBytes  93.5 Gbits/sec    1             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   8.00-9.00   sec  5.55 GBytes  47.7 Gbits/sec    0   4.12 MBytes       
+[  7]   8.01-9.00   sec  5.07 GBytes  43.9 Gbits/sec    0   4.12 MBytes       
+[SUM]   8.00-9.00   sec  10.6 GBytes  91.3 Gbits/sec    0             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[  5]   9.00-10.00  sec  5.47 GBytes  46.9 Gbits/sec    0   4.12 MBytes       
+[  7]   9.00-10.00  sec  5.51 GBytes  47.2 Gbits/sec    1   4.12 MBytes       
+[SUM]   9.00-10.00  sec  11.0 GBytes  94.1 Gbits/sec    1             
+- - - - - - - - - - - - - - - - - - - - - - - - -
+[ ID] Interval           Transfer     Bitrate         Retr
+[  5]   0.00-10.00  sec  56.5 GBytes  48.5 Gbits/sec    1            sender
+[  5]   0.00-10.00  sec  56.5 GBytes  48.5 Gbits/sec                  receiver
+[  7]   0.00-10.00  sec  55.4 GBytes  47.6 Gbits/sec    8            sender
+[  7]   0.00-10.00  sec  55.4 GBytes  47.6 Gbits/sec                  receiver
+[SUM]   0.00-10.00  sec   112 GBytes  96.1 Gbits/sec    9             sender
+[SUM]   0.00-10.00  sec   112 GBytes  96.1 Gbits/sec                  receiver
+
+iperf Done.
